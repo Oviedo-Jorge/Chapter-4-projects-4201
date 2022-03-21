@@ -1,0 +1,42 @@
+
+body {
+  background-color: #E8EAF6;
+	margin-right: 30px; margin-left: 30px;}
+
+header { font-family: Arial;border: hidden; background-color: #1A237E;
+		margin-top: -20px; margin-bottom:10px; }
+footer {border: hidden; padding:20px; margin-bottom:10px; background-color: #1A237E;}  
+
+/*header h1, header h2,*/
+
+nav {border: solid 1pt #C5CAE9; padding : 3px; background: #3F51B5;}
+nav p a:link{ color: #00B0FF;} 
+nav p a:hover {color: white; background-color: #F50057;}
+
+figure img{border: solid 1pt #C5CAE9;  
+	max-width:100%;
+	height:auto;
+	margin-bottom: -5px;}
+
+figcaption {border: hidden; padding: 10px; background:#C5CAE9; }
+
+h3 { font-family: Arial; border: solid 1pt #C5CAE9; padding : 20px; background: #7986CB;
+	margin-bottom: 0;}
+main section #reviews {solid 1pt #C5CAE9;}
+
+
+div p a:link{color: #00B0FF;}
+div p a:hover {color: white; background-color: #F50057;}
+div{font-family: Georgia;}
+div {border: solid 1pt #C5CAE9;}
+#reviews time {color: #FF80AB;}
+
+
+footer {  font-color: #00B0FF;}
+div {background-color: white;}
+
+footer p a:link {color: #00B0FF;}
+footer p em{color:white;}
+header, h3{color:white;}
+
+
