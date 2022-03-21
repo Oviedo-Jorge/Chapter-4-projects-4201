@@ -13,7 +13,7 @@ nav {border: solid 1pt #C5CAE9; padding : 3px; background: #3F51B5;}
 nav p a:link{ color: #00B0FF;} 
 nav p a:hover {color: white; background-color: #F50057;}
 
-figure img{border: solid 1pt #C5CAE9;  
+figure a {border: solid 1pt #C5CAE9;  
 	max-width:100%;
 	height:auto;
 	margin-bottom: -5px;}
