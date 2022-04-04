@@ -3,7 +3,7 @@ body {
   background-color: #E8EAF6;
 	margin-right: 30px; margin-left: 30px;}
 
-header { font-family: Arial;border: hidden; background-color: #1A237E;
+header { font-family: Arial;border: hidden; border: colid 1pt red; background-color: #1A237E;
 		margin-top: -20px; margin-bottom:10px; }
 footer {border: hidden; padding:20px; margin-bottom:10px; background-color: #1A237E;}  
 
